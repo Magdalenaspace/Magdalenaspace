@@ -1,6 +1,6 @@
 
 
-- 👋 Hello World, I’m @Magdalenaspace                                                                                                           
+- 👋 Hello World, I’m @Magdalenaspace.                                                                                                          
 - 👀 I’m interested in back-end side of users and their experiences.
 - 🤖 I’m currently learning Full stack development at Coding Dogo, and have experiance in Swift. 
 - 💡 I am currently Seeking Work!
