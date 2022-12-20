@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Magdalena.</h1>
-<h3 align="center">I’m iInterested in back-end side of users and their experiences.</h3>
+<h3 align="center" color="green">I’m iInterested in back-end side of users and their experiences.</h3>
 
 - 🌱 I’m currently learning **Full stack development at Coding Dogo, and have experiance in Swift**
 
@@ -10,8 +10,6 @@
 - 📄 Know about my experiences .......
 
 - ⚡ Fun fact **I love to Travel**
-
-
 ![68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966](https://user-images.githubusercontent.com/96504344/208762542-25ecea21-797a-441f-bd3c-842c65d77733.gif)
 
 
