@@ -7,9 +7,11 @@
 
 - 📫 How to reach me **magdalenasamuel4@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1zrPPIqD8aGRxIgplZlKEOoZe-FaNk9oubnmYmh-tDAw/edit](https://docs.google.com/document/d/1zrPPIqD8aGRxIgplZlKEOoZe-FaNk9oubnmYmh-tDAw/edit)
+- 📄 Know about my experiences .......
 
 - ⚡ Fun fact **I love to Travel**
+
+ ![68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966](https://user-images.githubusercontent.com/96504344/208762182-f6ab32e0-dcdd-44e4-af5c- 08c3c5550b60.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
