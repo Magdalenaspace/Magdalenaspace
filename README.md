@@ -10,5 +10,5 @@ Magdalenaspace/Magdalenaspace is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-![Software engineer](https://user-images.githubusercontent.com/96504344/208599703-c8a63c29-2668-43b9-a982-4082623e455a.gif)
+
 
