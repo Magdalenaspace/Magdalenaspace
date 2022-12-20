@@ -8,7 +8,7 @@
 - 💫 My resume:
 
                    
-![68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966](https://user-images.githubusercontent.com/96504344/208604448-dd97938e-5cfe-49e2-b838-c0b2150e0108.gif)
+  ![68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966](https://user-images.githubusercontent.com/96504344/208604448-dd97938e-5cfe-49e2-b838-c0b2150e0108.gif)
 
 <!---
 Magdalenaspace/Magdalenaspace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
