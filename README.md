@@ -4,6 +4,7 @@
 - 💡 I am currently Seeking Work!
 - 📫  How to reach me: magdalenasamuel4@gmail.com
 - 💫 My resume:
+
   ![Microsites](https://user-images.githubusercontent.com/96504344/208601338-68a6b411-1874-4606-87df-afc8bda130ea.gif)                    
 
 <!---
