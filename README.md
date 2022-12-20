@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Magdalenaspace                                                                                                                              
+- 👋 Hi, I’m @Magdalenaspace                                                               ![Microsites](https://user-images.githubusercontent.com/96504344/208601338-68a6b411-1874-4606-87df-afc8bda130ea.gif)                                                                
 - 👀 I’m interested in back-end side of users and their experiences.
 - 🤖 I’m currently learning Full stack development at Coding Dogo, and have experiance in Swift. 
 - 💡 I am currently Seeking Work!
@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Microsites](https://user-images.githubusercontent.com/96504344/208601338-68a6b411-1874-4606-87df-afc8bda130ea.gif)
+
