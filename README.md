@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! I'm Magdalena.</h1>
-<h3 align="center" style="color:purple;">I’m iInterested in back-end side of users and their experiences.</h3>
-## $\colorbox{green}{{\color{white}{This\ is\ a\ Big\ Title}}}$
+<h3 align="center" style="color:purple">I’m Interested in back-end side of users and their experiences.</h3>
+
 
 - 🌱 I’m currently learning **Full stack development at Coding Dogo, and have experiance in Swift**
 
