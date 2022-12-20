@@ -12,11 +12,11 @@
 - ⚡ Fun fact **I love to Travel**
 
 
-![68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966](https://user-images.githubusercontent.com/96504344/208762542-25ecea21-797a-441f-bd3c-842c65d77733.gif)
+  ![68747470733a2f2f692e696d6775722e636f6d2f747a594b5266642e676966](https://user-images.githubusercontent.com/96504344/208762542-25ecea21-797a-441f-bd3c-   842c65d77733.gif)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="right">Connect with me:</h3>
+<p align="right">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/magdalena-samuel-6b8680140/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-samuel-6b8680140/" height="30" width="40" /></a>
 <a href="https://discord.gg/MagdalenaSpace#6340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MagdalenaSpace#6340" height="30" width="40" /></a>
 </p>
