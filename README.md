@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Magdalenaspace                                                               ![Software engineer](https://user-   images.githubusercontent.com/96504344/208599232-8d3a2b15-f1fc-4430-ba43-10166a356dc4.gif)
+- 👋 Hi, I’m @Magdalenaspace                                                                                                                                                            ![Software engineer](https://user-   images.githubusercontent.com/96504344/208599232-8d3a2b15-f1fc-4430-ba43-10166a356dc4.gif)
 - 👀 I’m interested in back-end side of users and their experiences.
 - 🤖 I’m currently learning Full stack development at Coding Dogo.
 - 💡 I am currently Seeking Work!
