@@ -2,7 +2,7 @@
 <h3 align="center" style="color:purple">I’m Interested in back-end side of users and their experiences.</h3>
 
 
-- 🌱 I’m currently learning **Full stack development at Coding Dogo, and have experiance in Swift**
+- 🌱 I’m currently learning **Full Stack Development at Coding Dogo, Have an Experiance in Swift**
 
 - 🔭 I'm **Seeking Work!**
 
@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences .......
 
-- ⚡ Fun fact **I love to Travel and get cooking classes of the Local Culture.**
+- ⚡ Fun fact **I Love Traveling and Cooking Classes of Local Culture**
 
 
  <img align="center" src=https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif />
