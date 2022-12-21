@@ -18,7 +18,7 @@
 
 <h3 align="center" style="color:green;">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/magdalenaSamuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-samuel-6b8680140/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/magdalenasamuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-samuel-6b8680140/" height="30" width="40" /></a>
 <a href="https://discord.gg/MagdalenaSpace#6340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MagdalenaSpace#6340" height="30" width="40" /></a>
 <a href="https://dev.to/@magdalenaspace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@magdalenaspace" height="30" width="40" /></a>
  <a href="https://stackoverflow.com/users/user:20827261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:20827261" height="30" width="40" /></a>
