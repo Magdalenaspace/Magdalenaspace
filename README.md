@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences .......
 
-- ⚡ Fun fact **I love to Travel and take cooking classes to immerse myself in the Local Culture.**
+- ⚡ Fun fact **I love to Travel and get cooking classes of the Local Culture.**
 
 
  <img align="center" src=https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif />
