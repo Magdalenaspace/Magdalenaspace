@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I love to Travel**
 
 
- <img align="center" src=https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif/>
+ <img align="center" src=https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif />
 
 
 <h3 align="center" style="color:green;">Connect with me:</h3>
