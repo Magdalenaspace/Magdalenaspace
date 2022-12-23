@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **magdalenasamuel4@gmail.com**
 
-- 📄 Know about my experiences .......
+- 📄 Know about my experiences [file:///Users/magb/Desktop/Magdalena%20Samuel's%20Resume%20Template%20.pdf](file:///Users/magb/Desktop/Magdalena%20Samuel's%20Resume%20Template%20.pdf)
+
 
 - ⚡ Fun fact **I Love Traveling and Cooking Classes of Local Culture**
 
