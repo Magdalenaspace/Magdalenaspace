@@ -6,7 +6,7 @@
 
 - 🔭 I'm **Seeking Work!**
 
-- 📫 How to reach me **magdalenasamuel4@gmail.com**
+- 📫 How to reach me **magdalenasamuel.dev@gmail.com**
 
 <!-- - 📄 Know about my experiences  -->
 <!-- [Magdalena Samuel's Resume Template .pdf](https://github.com/Magdalenaspace/Magdalenaspace/files/10291308/Magdalena.Samuel.s.Resume.Template.pdf) -->
