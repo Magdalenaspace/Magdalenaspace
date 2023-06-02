@@ -15,8 +15,21 @@
 - ⚡ Fun fact **I Love Traveling and Cooking Classes of Local Culture**
 
 
-<img align="center" src="https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif" loop autoplay />
+<!-- <img align="center" src="https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif" loop autoplay /> -->
+<div id="gif-container"></div>
 
+<script>
+  // Create a new Image element
+  var gifImage = new Image();
+  
+  // Set the source URL of the GIF image
+  gifImage.src = "https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif";
+  
+  // Append the Image element to the container once it is fully loaded
+  gifImage.onload = function() {
+    document.getElementById("gif-container").appendChild(gifImage);
+  };
+</script>
 
 <h3 align="center" style="color:green;">Connect with me:</h3>
 <p align="left">
