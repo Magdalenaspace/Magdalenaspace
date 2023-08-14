@@ -1,8 +1,9 @@
 <h1 align="center">Hello World! I'm Magdalena.</h1>
 <h3 align="center" style="color:purple">I’m Interested in back-end side of users and their experiences.</h3>
 
-
-- 🌱 I’m currently learning **Full Stack Development at Coding Dogo, Have an Experiance in Swift**
+- ⭐️ ** Experienced in Swift **
+- ⭐️  **Full Stack Development at Coding Dogo**
+  https://app.diplomasafe.com/en-US/diploma/d1b61cdf213e17bb63cd75fe4a97c02108632645f 
 
 - 🔭 I'm **Seeking Work!**
 
