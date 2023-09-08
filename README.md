@@ -5,7 +5,7 @@
 - ⭐️  **Full Stack Development at Coding Dogo**
   https://app.diplomasafe.com/en-US/diploma/d1b61cdf213e17bb63cd75fe4a97c02108632645f 
 
-- 🔭 I'm **Seeking Work!**
+- 🔭 **Looking for new opportunities to grow my career!**
 
 - 📫 How to reach me **magdalenasamuel.dev@gmail.com**
 
