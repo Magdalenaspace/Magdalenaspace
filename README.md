@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Magdalena.</h1>
-<h3 align="center" style="color:purple">I’m Interested in back-end side of users and their experiences.</h3>
+<h3 align="center" style="color:purple">I’m Interested in back-end side of users experiences.</h3>
 
 - ⭐️ **iOS Developer**
   
