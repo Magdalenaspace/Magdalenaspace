@@ -19,7 +19,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/96504344/208763443-e613b035-4040-4b1a-a4b6-bd7f0d88d074.gif" loop autoplay />
 
 
-<h3 align="center" style="color:green;">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/magdalenasamuel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/magdalena-samuel-6b8680140/" height="20" width="30" /></a>
 <a href="https://discord.gg/MagdalenaSpace#6340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MagdalenaSpace#6340" height="20" width="30" /></a>
